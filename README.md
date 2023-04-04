@@ -1,5 +1,12 @@
 # Autopin plugin for Teamcity
 
+## Aesir readme
+
+The repository was updated with newer dependency versions.
+Install Amazon coretto JDK 11 or any compatible JDK version and then follow the steps as described in [Installation](#Installation).
+
+## original readme
+
 This plugin allows to pin and/or tag Teamcity builds automatically, e.g. without human interaction. Here are some use cases:
 
 * pin automatically a build run on a release branch
