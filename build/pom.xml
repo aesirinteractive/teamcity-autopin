@@ -11,8 +11,8 @@
   <properties>
       <maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
       <teamcity.autopin.plugin.version>snapshot-${maven.build.timestamp}</teamcity.autopin.plugin.version>
-      <teamcity.autopin.plugin.vendorName>Plugin vendor name</teamcity.autopin.plugin.vendorName>
-      <teamcity.autopin.plugin.vendorUrl>Plugin vendor URL</teamcity.autopin.plugin.vendorUrl>
+      <teamcity.autopin.plugin.vendorName>Aesir Interactive GmbH</teamcity.autopin.plugin.vendorName>
+      <teamcity.autopin.plugin.vendorUrl>https://github.com/aesirinteractive/teamcity-autopin</teamcity.autopin.plugin.vendorUrl>
   </properties>
   <dependencies>
       <dependency>
